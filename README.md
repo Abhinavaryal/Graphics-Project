@@ -79,6 +79,11 @@ Press M to disable normal mapping
 
 Press J, K, and L to switch which texture is rendered onto the model
 
+
+We used three object files to observe every type of observation during the process. We used a cube to start our process and finally used objects with many more vertices. We used three different obj files for the final demonstration.
+In the pictures below you can observe various obj files with three different texture files, the first texture file is the brick wall that can be seen on the cube, the second is the wooden texture that can be seen on the Titanic, and finally, the gator can be seen with the alligator object.
+
+
 ## REFERENCES
 1.	https://stackoverflow.com/questions/18398167/how-to-copy-a-txt-file-to-a-char-array-in-c
 2.	https://stackoverflow.com/questions/36441192/opengl-fragment-shaders-changing-a-fixed-color
