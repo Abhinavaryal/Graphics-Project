@@ -1,4 +1,3 @@
-## CAP 5705 – Final Project
 
 ## Project Title: Texture and Normal Mapping
 
